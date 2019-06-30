@@ -16,10 +16,10 @@ public class pers {
 	
 	
 	/*
-	 * constructeur de la classe pers , c'est une methode possedant le meme nom que la classe pouvant 
-	 * prendre plusieurs parametre. 
-	 * le constructeur sert d'une identit� pour la classe pers de cette facon nous pouvons appeller 
-	 * le constructeur de cette classe dans d'autres classe et agir directement sur les variables 
+	 * constructeur de la classe perse, c'est une méthode possédant le même nom que la classe pouvant 
+	 * prendre plusieurs paramètres.  
+	 * le constructeur sert d'une identité pour la classe perse de cette façon nous pouvons appeler 
+	 * le constructeur de cette classe dans d'autres classes et agir directement sur les variables
 	 */
 	public pers (String name, String prenom , int age , String job ) {
 		this.name = name ; 
