@@ -28,9 +28,14 @@ public class euclidien {
 	 */
 	public double distance () {
 		
+		/*
+		 * la méthode pow de Math élève le premier argument à la puissance indiquée par le second.
+		 */
 		double x=Math.pow(x1-x2, 2);
 		double y=Math.pow(y1-y2, 2);
-		
+		/*
+		 * la méthode sqrt de Math calcule la racine carrée de son paramètre.
+		 */
 		return Math.sqrt(x+y);
 		
 	}
