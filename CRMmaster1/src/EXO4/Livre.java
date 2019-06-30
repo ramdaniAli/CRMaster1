@@ -4,7 +4,7 @@
 package EXO4;
 
 /**
- * class libraire
+ * class livre
  *
  */
 public class Livre {
@@ -17,7 +17,7 @@ public class Livre {
  	
 	
 	/*
-	 * constructeur de la classe libraire 
+	 * constructeur de la classe livre
 	 */
 	public Livre (int id, String titre, String autor ,int prix) {
 		
